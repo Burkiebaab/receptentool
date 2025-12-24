@@ -3,7 +3,7 @@ import requests
 
 # --- CONFIGURATIE ---
 # Vervang dit door jouw unieke n8n Webhook URL
-N8N_WEBHOOK_URL = http://localhost:5678/webhook-test/79c291a7-6f30-4cc5-a39f-536cefd0c6ce
+N8N_WEBHOOK_URL = "http://localhost:5678/webhook-test/79c291a7-6f30-4cc5-a39f-536cefd0c6ce"
 
 st.set_page_config(page_title="GA4 & Recepten AI Agent", page_icon="📊")
 
